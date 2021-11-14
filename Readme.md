@@ -8,6 +8,8 @@ merge_20_09.ipynb : jointure des données de kaggle et de metacritic
 
 modele_20_09.ipynb : modélisation 
 
+streamlit_noc.py : fichier streamlit
+
 
 
 Données
